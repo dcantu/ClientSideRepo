@@ -1,2 +1,3 @@
 this is a text file, changes to the end of te file
 this is a nuew line
+This is the bug fix
